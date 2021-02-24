@@ -3,9 +3,9 @@
 ## Warning 24/02/2021
 This project is no longer active because the danish goverment launched a dashboard with more or less same information that the one I created.
 
-https://covid19.ssi.dk/overvagningsdata/vaccinationstilslutning - Information about the dashboard and the data in more open formats.
+[Information about the dashboard and the data in more open formats.](https://covid19.ssi.dk/overvagningsdata/vaccinationstilslutning)
 
-https://experience.arcgis.com/experience/1c7ff08f6cef4e2784df7532d16312f1 - Access to the SSI dashboard.
+[Access to the SSI dashboard.](https://experience.arcgis.com/experience/1c7ff08f6cef4e2784df7532d16312f1)
 
 ## Introduction
 
