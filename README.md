@@ -1,7 +1,7 @@
 # Covid 19 Vaccine Data Extractor
 
-## Warning
-24/02/2021 - This project is no longer active because the danish goverment launched a dashboard with more or less same information that the one I created.
+## Warning 24/02/2021
+This project is no longer active because the danish goverment launched a dashboard with more or less same information that the one I created.
 
 https://covid19.ssi.dk/overvagningsdata/vaccinationstilslutning - Information about the dashboard and the data in more open formats.
 
